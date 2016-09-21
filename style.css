@@ -1,0 +1,29 @@
+/*
+Theme Name: CleanSlide
+Author: DzKaiz
+Description: Stylesheets Import
+
+Importing the CSS:
+
+*/
+
+/* Global Reset */
+@import "css/reset.css";
+
+/* Typography */
+@import "css/typography.css";
+
+/* Layout */
+@import "css/layout.css";
+
+/* Accordion Styles */
+@import "css/accordion.css";
+
+/* Portfolio (Slider) Styles */
+@import "css/portfolio.css";
+
+/* Fancybox */
+@import "css/fancybox.css";
+
+/* Color Demo - You can remove this */
+@import "css/colors.css";
